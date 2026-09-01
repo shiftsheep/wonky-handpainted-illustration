@@ -1,0 +1,6 @@
+interface:
+  display_name: "粗拙手绘插画"
+  short_description: "快速生成可爱但不幼稚、略显粗糙笨拙的统一平面手绘视觉资产"
+  default_prompt: "使用 $wonky-handpainted-illustration 生成一组统一风格的角色、徽章、APP Icon 或场景插画。"
+policy:
+  allow_implicit_invocation: true
